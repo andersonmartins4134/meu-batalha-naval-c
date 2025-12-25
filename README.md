@@ -15,6 +15,7 @@ Geometria Analítica Computacional: Desenvolvimento de algoritmos para criar for
 Versionamento com Git: Fluxo completo de trabalho com add, commit e push, mantendo um histórico claro de evolução do projeto.
 
   Evolução do Projeto
+  
 🟦 Nível Novato
 Criação da base do tabuleiro 10x10.
 
