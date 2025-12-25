@@ -1,4 +1,5 @@
 ⚓ Desafio Batalha Naval em C
+
 Este projeto foi desenvolvido como parte da trilha de aprendizado em lógica de programação, focando no domínio de estruturas de dados estáticas (Vetores e Matrizes) utilizando a linguagem C. O projeto evoluiu através de três níveis de complexidade, simulando o desenvolvimento de um motor lógico para um jogo de Batalha Naval.
 
    Tecnologias e Habilidades Demonstradas
